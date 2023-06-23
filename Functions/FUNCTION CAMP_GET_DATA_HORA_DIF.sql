@@ -15,7 +15,6 @@ BEGIN
 -- Autor:		Luis Rapkievicz
 -- Data: 		25/05/2022
 -- Objetivo:	Calcular a diferença entre duas datas e retornando o conteúdo por extenso, em anos, meses, dias e tempo
--- ())====D
 -- =============================================
 
 	DECLARE @result VARCHAR(100);
